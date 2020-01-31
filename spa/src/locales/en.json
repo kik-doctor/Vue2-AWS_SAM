@@ -1,0 +1,97 @@
+{
+  "app": {
+    "name": "Between us Drivers",
+    "logo-alt": "Man holding steering wheel",
+    "slogan": "The only way to discuss traffic problems",
+    "sign-in": "Sign in",
+    "sign-up": "Sign up",
+    "help": "Help",
+    "our-mission": "Our mission",
+    "contact": "Contact",
+    "advertisement": "Advertisement",
+    "archive": "Archive"
+  },
+  "sign-in": {
+    "forgot-password-heading": "Forgot password",
+    "email-reset-description": "Enter your email and we will send you a reset link",
+    "email-placeholder": "Email",
+    "password-placeholder": "Password",
+    "reset-password-button": "Reset password",
+    "modal-close-button": "Close",
+    "terms-conditions-required": "You must agree to our terms and conditions",
+    "data-processing-required": "You must agree to us processing your personal data",
+    "sign-in-heading": "Sign in",
+    "sign-up-create-account-heading": "If you don't already have an account, click the button below to create one",
+    "forgot-password-link": "Forgot password?",
+    "sign-in-button": "Sign in",
+    "or": "OR"
+  },
+  "sign-up": {
+    "heading": "Sign up",
+    "body": "You are the single step away from registration. Enter statistical information you want to share. Your votes are anonymous in each poll.",
+    "email-label": "Email",
+    "password-label": "Password",
+    "terms-label": "I agree with terms and conditions",
+    "processing-label": "I agree with processing of my personal data",
+    "notifications-label": "I want to recieve email notifications",
+    "finished-button-label": "Register",
+    "region-options": "Choose region",
+    "errors-heading": "Please correct the following error(s):",
+    "something-went-wrong-heading": "Something wen't wrong creating your account, please try again.",
+    "email-exists": "This email is already used, try to login or reset your password.",
+    "nickname-exists": "Sorry, this nickname has already been taken.",
+    "consents": "Consents",
+    "consent-missing": "We cannot continue without your consent",
+    "success-message": "All set, please check your email and verify your account!"
+  },
+  "complete-profile": {
+    "heading": "Update your profile"
+  },
+  "analyze-votes": {
+    "first-group": "First group",
+    "second-group": "Second group",
+    "button": "Analyze Votes"
+  },
+  "poll": {
+    "your-vote": "Your vote",
+    "analyze-votes": "Analyze votes",
+    "discussion": "Discussion",
+    "your-say": "What do you want to say about it",
+    "other-polls-button": "Other polls"
+  },
+  "profile": {
+    "nickname": "Nickname",
+    "driving-for": "Driving since",
+    "driving-since": "Driving since",
+    "vehicle": "Vehicle",
+    "vehicle-bike": "Bike",
+    "vehicle-car": "Car",
+    "vehicle-bus": "Bus",
+    "vehicle-van": "Van",
+    "vehicle-truck": "Truck",
+    "vehicle-tramway": "Tramway",
+    "region": "Region",
+    "education": "Education",
+    "edu-basic": "Základní",
+    "edu-high": "Středoškolské",
+    "edu-university": "Vysokoškolské",
+    "sex": "Sex",
+    "sex-man": "Man",
+    "sex-woman": "Woman",
+    "public": "Public",
+    "private": "Private",
+    "share-profile": "Share profile",
+    "finish-button": "Finish",
+    "born": "Born"
+  },
+  "bar-chart": {
+    "no-problem": "No problem",
+    "trivial-trouble": "Trivial trouble",
+    "i-dont-like-it": "I don't like it",
+    "i-hate-it": "I hate it"
+  },
+  "comment": {
+    "reply": "Reply",
+    "close": "Close"
+  }
+}
